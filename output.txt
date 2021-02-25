@@ -1,0 +1,16 @@
+{"name": "Ian Kehoe", "id": "4", "distance": "10.57km"}
+{"name": "Nora Dempsey", "id": "5", "distance": "23.29km"}
+{"name": "Theresa Enright", "id": "6", "distance": "24.09km"}
+{"name": "Eoin Ahearn", "id": "8", "distance": "83.53km"}
+{"name": "Richard Finnegan", "id": "11", "distance": "38.14km"}
+{"name": "Christina McArdle", "id": "12", "distance": "41.77km"}
+{"name": "Olive Ahearn", "id": "13", "distance": "62.23km"}
+{"name": "Michael Ahearn", "id": "15", "distance": "43.72km"}
+{"name": "Patricia Cahill", "id": "17", "distance": "96.08km"}
+{"name": "Eoin Gallagher", "id": "23", "distance": "82.7km"}
+{"name": "Rose Enright", "id": "24", "distance": "89.03km"}
+{"name": "Stephen McArdle", "id": "26", "distance": "98.87km"}
+{"name": "Oliver Ahearn", "id": "29", "distance": "72.2km"}
+{"name": "Nick Enright", "id": "30", "distance": "82.64km"}
+{"name": "Alan Behan", "id": "31", "distance": "44.29km"}
+{"name": "Lisa Ahearn", "id": "39", "distance": "38.36km"}
